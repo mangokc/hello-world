@@ -1,2 +1,2 @@
 # hello-world
-learn how to create a new repository
+I am new here. I am here to learn new skill and learn how to code. Isn't this cool?
